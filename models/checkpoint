@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/codyscharfe/Downloads/Halite2_ML-StarterBot-Python_MacOS/tsmlstarterbot/../models/model_short_training.ckpt"
+all_model_checkpoint_paths: "/Users/codyscharfe/Downloads/Halite2_ML-StarterBot-Python_MacOS/tsmlstarterbot/../models/model_short_training.ckpt"
